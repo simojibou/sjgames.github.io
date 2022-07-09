@@ -1,9 +1,9 @@
 ﻿{
-	"name": "Pac Circle",
-	"short_name": "Pac Circle",
+	"name": "Danger Cliffs",
+	"short_name": "Danger Cliffs",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "landscape",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
