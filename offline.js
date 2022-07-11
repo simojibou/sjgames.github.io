@@ -34,8 +34,8 @@
 		"images/booom1-sheet1.png",
 		"images/booom1-sheet2.png",
 		"images/booom1-sheet3.png",
-		"images/twitter-sheet0.png",
-		"images/facebook-sheet0.png",
+		
+		
 		"images/sprite18-sheet0.png",
 		"images/sprite19-sheet0.png",
 		"images/sprite20-sheet0.png",
@@ -46,7 +46,7 @@
 		"images/sprite23-sheet0.png",
 		"images/sprite24-sheet0.png",
 		"images/destore-sheet0.png",
-		"images/moregames-sheet0.png",
+		
 		"images/effect-sheet0.png",
 		"images/hand-sheet0.png",
 		"images/moregames2-sheet0.png",
